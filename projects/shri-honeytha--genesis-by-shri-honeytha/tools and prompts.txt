@@ -1,0 +1,3 @@
+Tools Used: Google Colab
+Task: Build and develop an AI-powered chatbot that can handle domain-specific tasks.
+Methodology: Before starting, we have to change the "runtime type" to T4 GPU
