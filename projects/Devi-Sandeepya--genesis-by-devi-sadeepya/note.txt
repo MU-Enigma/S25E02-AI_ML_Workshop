@@ -1,0 +1,2 @@
+tools used: google collab
+pre requisites: change the runtime type to T4
